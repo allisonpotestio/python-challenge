@@ -1,7 +1,7 @@
 import os
 import csv
 
-pollData = os.path.join("Starter_Code","PyPoll/Resources","election_data.csv")
+pollData = os.path.join("Starter_Code","PyPoll","Resources","election_data.csv")
 
 
 with open(pollData, encoding="utf-8") as csvfile:
