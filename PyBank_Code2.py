@@ -3,8 +3,8 @@ import csv
 import os
 
 
-file_to_load = os.path.join("Starter Code","Pybank","Resources","budget_data.csv")
-file_to_output = os.path.join("Starter Code","PyBank", "budget_analysis.txt")
+file_to_load = os.path.join("Starter_Code","Pybank","Resources","budget_data.csv")
+file_to_output = os.path.join("Starter_Code","PyBank", "budget_analysis.txt")
 
 total_months = 0
 month_of_change = []
